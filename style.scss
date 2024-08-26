@@ -10,12 +10,21 @@
    box-sizing: border-box;
 }
 body{
-   background-color: rgb(223, 152, 244); // cor de fundo
+   background-color: rgb(156, 24, 196); // cor de fundo
 }
 img{
    width: 200px;
    border-radius: 60%;
 }
 h1{
-   color: rgb(70, 155, 234);
+   font-family: "Nunito", sans-serif;
+   color: rgb(242, 57, 255);
+}
+.tituloMusicas{
+   font-family: "Nunito", sans-serif;
+   color: rgb(242, 57, 255);
+}
+ol{
+   background-color: #b05bf5;
+   color: #78ADF5;
 }
